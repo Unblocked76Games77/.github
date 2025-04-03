@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 <h2><a href="https://lesson3.guru">CLICK TO PLAY GAME</h2>
-<HR>---
+<HR>
 <H2><a href="https://lessons1.guru">CLICK 2 PLAY UNB GAMES</a></H2>
-<HR>---
-<HR>---
+<HR>
 <H2><a href="https://lesson-1.lol">CLICK PLAY 3</a></H2>
 <a href="https://lessons1.guru"><img src="https://clearcache.store/games.png"></a>
 
